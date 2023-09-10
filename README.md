@@ -36,4 +36,4 @@ THEN I should have proper build scripts for a webpack application
 
 ![image](https://github.com/joshuawongg/TextEditor/assets/103795053/c787efff-e494-4100-a73a-25702b1aab32)
 
-Live application Link: 
+Live application Link: https://jwong-texteditor-e31248c1a26c.herokuapp.com/
